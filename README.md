@@ -5,16 +5,6 @@
 
 BookBell is a user-friendly React Native application designed for book enthusiasts to explore, purchase, and manage their favorite reads. With a seamless browsing experience, users can discover popular books, browse by category, add favorites, and manage their cart for easy checkout. Built with a modern and efficient tech stack, BookBell ensures a smooth and engaging experience for book lovers on the go. 📚✨
 
-
-The system is structured to handle the following core features:
-
-- Pet Management: Add, update, view, and delete pet profiles, including detailed information such as age, breed, health status, and images.
-- Adopter Management: Manage adopter profiles, including personal details and adoption history.
-- Adoption Requests: Submit and track adoption requests, including their approval status and associated pet.
-- Pet Adoption Process: Facilitate the process from pet viewing to adoption confirmation, ensuring transparency and efficient communication between adopters and admins.
-
- 
-
 ---
 
 ### **Main Features**  
